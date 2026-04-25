@@ -18,7 +18,6 @@
 ---
 
 ## 🐍 Contribution Snake 
-![Snake Animation](https://raw.githubusercontent.com/ask622/snake/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
