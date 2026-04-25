@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0e1117&height=180&section=header&text=Aakash&fontSize=40&fontColor=FFD700)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0e1117&height=180&section=header&text=Ojavchauhan&fontSize=40&fontColor=FFD700)
 
 # Hi 👋 I'm ojasv chauhan  
 
